@@ -1,0 +1,30 @@
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.game-info li {
+  margin-bottom: 5px;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.active {
+  color:  #ffccf2;
+  background-color: #4d0039;
+  border: solid 1px #1a0013;
+}
+
+.Icon {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    color: #cc0099;
+    cursor: pointer;
+}
